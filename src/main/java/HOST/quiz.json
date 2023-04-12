@@ -1,0 +1,212 @@
+[
+  {
+    "text": "1+1",
+    "answers": [
+      {
+        "text": "12",
+        "isCorrect" : false
+      },
+      {
+        "text": "789",
+        "isCorrect" : false
+      },
+      {
+        "text": "2",
+        "isCorrect" : true
+      },
+      {
+        "text": "-2",
+        "isCorrect" : false
+      }
+    ]
+  },
+  {
+    "text": "1-1",
+    "answers": [
+      {
+        "text": "12",
+        "isCorrect" : false
+      },
+      {
+        "text": "0",
+        "isCorrect" : true
+      },
+      {
+        "text": "2",
+        "isCorrect" : false
+      },
+      {
+        "text": "-2",
+        "isCorrect" : false
+      }
+    ]
+  },
+  {
+    "text": "Care din urmatoarele tipuri de date nu sunt primitive ?",
+    "answers": [
+      {
+        "text": "int",
+        "isCorrect" : false
+      },
+      {
+        "text": "Integer",
+        "isCorrect" : true
+      },
+      {
+        "text": "boolean",
+        "isCorrect" : false
+      },
+      {
+        "text": "char",
+        "isCorrect" : false
+      }
+    ]
+  },
+  {
+    "text": "Cine a spus :Iubeste si cucereste?",
+    "answers": [
+      {
+        "text": "Alexandru Macedon",
+        "isCorrect" : true
+      },
+      {
+        "text": "Florin Salam",
+        "isCorrect" : false
+      },
+      {
+        "text": "Tzaca Uraganul",
+        "isCorrect" : false
+      },
+      {
+        "text": "Nelson Mondialu",
+        "isCorrect" : false
+      }
+    ]
+  },
+  {
+    "text": "Care este capitala Germaniei?",
+    "answers": [
+      {
+        "text": "Berlin",
+        "isCorrect" : true
+      },
+      {
+        "text": "Romania",
+        "isCorrect" : false
+      },
+      {
+        "text": "Moscova",
+        "isCorrect" : true
+      },
+      {
+        "text": "America",
+        "isCorrect" : false
+      }
+    ]
+  },
+  {
+    "text": "Care este cel mai inalt munte din Romania?",
+    "answers": [
+      {
+        "text": "Vulcan",
+        "isCorrect" : false
+      },
+      {
+        "text": "Varful Moldoveanu",
+        "isCorrect" : true
+      },
+      {
+        "text": "Varful Ceahlau",
+        "isCorrect" : true
+      },
+      {
+        "text": "Varful Pietrosu",
+        "isCorrect" : false
+      }
+    ]
+  },
+  {
+    "text": "Care este cel mai bogat om din lume?",
+    "answers": [
+      {
+        "text": "Elon Musk",
+        "isCorrect" : true
+      },
+      {
+        "text": "Elon Musca",
+        "isCorrect" : false
+      },
+      {
+        "text": "Elon Musck",
+        "isCorrect" : false
+      },
+      {
+        "text": "Elon Mus",
+        "isCorrect" : false
+      }
+    ]
+  },
+  {
+    "text": "Care este capitala Romaniei ?",
+    "answers": [
+      {
+        "text": "Timisoara",
+        "isCorrect" : false
+      },
+      {
+        "text": "Vaslui",
+        "isCorrect" : false
+      },
+      {
+        "text": "Iasi",
+        "isCorrect" : false
+      },
+      {
+        "text": "Bucuresti",
+        "isCorrect" : true
+      }
+    ]
+  },
+  {
+    "text": "Care este cel mai bogat om din Romania ?",
+    "answers": [
+      {
+        "text": "Gigi Becali",
+        "isCorrect" : false
+      },
+      {
+        "text": "Daniel Dines",
+        "isCorrect" : false
+      },
+      {
+        "text": "Adrian Paval",
+        "isCorrect" : true
+      },
+      {
+        "text": "Dani Mocanu",
+        "isCorrect" : false
+      }
+    ]
+  },
+  {
+    "text": "Care este cel mai mare ocean din lume?",
+    "answers": [
+      {
+        "text": "Oceanul Indian",
+        "isCorrect" : false
+      },
+      {
+        "text": "Oceanul Atlantic",
+        "isCorrect" : false
+      },
+      {
+        "text": "Oceanul Antarctic",
+        "isCorrect" : false
+      },
+      {
+        "text": "Oceanul Pacific",
+        "isCorrect" : true
+      }
+    ]
+  }
+]

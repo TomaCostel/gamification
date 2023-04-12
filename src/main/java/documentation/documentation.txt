@@ -1,0 +1,10 @@
+Aplicatia mea citeste din fisiere de tip json.
+Am facut un mic login care citeste din fisierul users.json.
+In momentul in care username-ul si password-ul introdus de la tastatura corespunde cu ce este in fisierul user.json atunci user-ul trebuie sa raspunda la quiz.
+Se citeste din fisierul quiz.json iar utilizatorul trebuie sa introduca o litera din cele afisate in consola cu raspunsul corect.
+La sfarsit se cere ID-ul pentru care se modifica valoarea tokenurilor din fisierul users.json.
+
+Va multumesc pentru atentie!
+
+Cu stima,
+Toma!
